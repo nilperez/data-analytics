@@ -26,12 +26,24 @@ Para ello, en primer lugar se realiza un [EDA](PI02_EDA.ipynb) de las fuentes de
 
 ## **EDA**
 
-Para realizar el EDA se trabajó con información de mercado, oferta, demanda y cobertura de los servicios de comunicaciones (hasta el tercer trimestre 2022), brindados por el Ente Nacional de Comunicaciones (Enacom), en la sección [Acceso a Internet](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/).
+Para realizar el EDA se trabajó con información de mercado, oferta, demanda y cobertura de los servicios de comunicaciones (hasta el tercer trimestre 2022), brindados por el Ente Nacional de Comunicaciones (Enacom), en la sección [Acceso a Internet](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/). Para n mejor análisis, al tener que trabajar con las 23 provincias y CABA, se optó por trabajar con las 5 regiones definidas por el INDEC:
+
+* **NOA**: Jujuy, Salta, Tucumán, Santiago del Estero, La Rioja y Catamarca
+* **NEA**: Chaco, Formosa, Corrientes y Misiones
+* **Cuyo**: Mendoza, San Juan y San Luis
+* **Pampeana**: Buenos Aires, CABA, Santa Fe, Córdoba, La Pampa y Entre Ríos
+* **Patagonia**: Neuquén, Río Negro, Chubut, Santa Cruz y Tierra del Fuego
+
+Esto también ayudará  la toma de decisiones ya que luego nos enfocaremos en la región NOA.
+
 En este análisis se identificaron, entre otras:
 
 * Distribución a nivel nacional de las diferentes tecnologías de acceso a internet.
 * Tecnologías que están quedando obsoletas frente a las que están en crecimiento.
+* Tecnologías dominantes en general y por provincias.
+* Diferencias de tipos de conexión entre regiones.
 * Evolución de las velocidades de bajada por localidades, provincias y regiones.
+* Cantidad de localidades conectadas y con qué tipo de conexiones.
 
 `Datos utilizados para el análisis`
 
