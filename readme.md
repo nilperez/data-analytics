@@ -35,12 +35,16 @@ En este análisis se identificaron, entre otras:
 
 `Datos utilizados para el análisis`
 
-Además de los datasets de Acceso a internet se utilizó el de [Penetración nacional de la telefonía móvil (accesos por cada 100 habitantes)](https://datosabiertos.enacom.gob.ar/visualizations/29940/penetracion-nacional-de-la-telefonia-movil-accesos-por-cada-100-habitantes/) y algunos de la sección [TV Paga](https://datosabiertos.enacom.gob.ar/dashboards/20002/television-por-suscripcion-y-satelital/).
+Además de los datasets de Acceso a internet se utilizó el de [Penetración nacional de la telefonía móvil (accesos por cada 100 habitantes)](https://datosabiertos.enacom.gob.ar/visualizations/29940/penetracion-nacional-de-la-telefonia-movil-accesos-por-cada-100-habitantes/).
+
+`Datos utilizados para el dasboard`
+
+ Para la elaboración del *dashboard* se utilizaran los atasets limpios que se obtuvieron del EDA y algunos de la sección [TV Paga](https://datosabiertos.enacom.gob.ar/dashboards/20002/television-por-suscripcion-y-satelital/).
 
 ## **KPI's** 
 
 Los KPI's que se sugieren en función de lo requerido por la empresa ficticia, y que se presentarán en el *dashboard* son:
 
-* Cobertura geográfica
-* Velocidad de la conexión
-* Rentabilidad
+* Expandir la cobertura geográfica de los servicios en el mercado regional, añadiendo al menos un 10% más de áreas atendidas en los próximos 12 meses.
+* Mantener estándares de velocidad y calidad en el servicio de internet y TV cable proporcionado, manteniendo una velocidad de descarga promedio superior a la media de la región.
+* Mejorar la rentabilidad en el mercado regional aumentando el margen de beneficio en un 10% en los próximos 6 meses. 
